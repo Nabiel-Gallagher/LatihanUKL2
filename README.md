@@ -53,12 +53,12 @@ Masukkan Angka:
 
 ## 🏷️ Informasi Tambahan
 
-📁 **Nama File:** `MudahSoal1.java`
+📁 **Nama File:** `MudahSoal2.java`
 
 🧑‍🎓 **Dibuat oleh:** Deniza Nabiel Akbar Al Fatih
 
 🏫 **Kelas / Absen:** X RPL 5 / 13
 
-💼 **Tugas:** Soal 1 Level Mudah ( Latihan Soal UKL )
+💼 **Tugas:** Soal 2 Level Mudah ( Latihan Soal UKL )
 
 📅 **Tanggal**: 3 November 2025
